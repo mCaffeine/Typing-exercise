@@ -7,3 +7,4 @@ int main()
 	int i=0;
 	int j=0;
 	int row=0;//行 
+	int clo=0;//列
