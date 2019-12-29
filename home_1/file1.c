@@ -15,3 +15,5 @@ int main()
 {
 	for(j=0;j<3;j++)
 	{
+		if(a[i][j]>=max)
+		{
