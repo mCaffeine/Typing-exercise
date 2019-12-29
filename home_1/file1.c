@@ -8,3 +8,6 @@ int main()
 	int j=0;
 	int row=0;//行 
 	int clo=0;//列
+	int max=0;
+	int a[3][3]={{1,2,4},{5,3,9},{1,11,2}};
+	max=a[0][0];
