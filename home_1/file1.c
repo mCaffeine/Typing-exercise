@@ -18,3 +18,4 @@ int main()
 		if(a[i][j]>=max)
 		{
 		max=a[i][j];
+		row=i;
