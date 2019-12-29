@@ -19,3 +19,4 @@ int main()
 		{
 		max=a[i][j];
 		row=i;
+		clo=j;
