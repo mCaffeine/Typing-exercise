@@ -25,3 +25,4 @@ int main()
 }
 	printf("Max value is %d,row is %d,col is %d\n",max,row,clo);
 	printf("%d\n",a[row][clo]);
+	 } 
