@@ -21,3 +21,6 @@ int main()
 		row=i;
 		clo=j;
 	}
+	}
+}
+	printf("Max value is %d,row is %d,col is %d\n",max,row,clo);
