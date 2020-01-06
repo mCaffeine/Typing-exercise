@@ -8,3 +8,4 @@
  	int i=0;
  	float a[3];
  	for(i=0;i<3;i++)
+ 	{
