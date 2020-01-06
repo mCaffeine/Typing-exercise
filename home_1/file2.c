@@ -4,3 +4,4 @@
  float aver(float x,float y,float z);
  int main()
  {
+ 	float temp;
