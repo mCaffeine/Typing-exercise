@@ -10,3 +10,5 @@
  	for(i=0;i<3;i++)
  	{
  		scanf("%f",&a[i]);
+	 }
+	 temp=aver(a[0],a[1],a[2]);
