@@ -9,3 +9,4 @@
  	float a[3];
  	for(i=0;i<3;i++)
  	{
+ 		scanf("%f",&a[i]);
