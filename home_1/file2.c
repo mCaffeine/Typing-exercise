@@ -18,3 +18,4 @@
  float aver(float a,float b,float c)
  {
  	float re_value=0;
+ 	re_value=(a+b+c)/3;
