@@ -15,3 +15,6 @@
 	 printf("averange is %f\n",temp);
  }
  
+ float aver(float a,float b,float c)
+ {
+ 	float re_value=0;
