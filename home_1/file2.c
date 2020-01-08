@@ -14,3 +14,4 @@
 	 temp=aver(a[0],a[1],a[2]);
 	 printf("averange is %f\n",temp);
  }
+ 
