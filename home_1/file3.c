@@ -3,3 +3,4 @@
 //从键盘中输入十个整数，找出最大值并输出 
 #include <stdio.h>
 int MAX(int a[10]);
+int main()
