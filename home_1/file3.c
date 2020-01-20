@@ -4,3 +4,5 @@
 #include <stdio.h>
 int MAX(int a[10]);
 int main()
+{
+	int i=0;//计数 
