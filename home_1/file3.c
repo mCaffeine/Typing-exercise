@@ -8,3 +8,4 @@ int main()
 	int i=0;//计数 
 	int a[10];
 	int temp=0;
+	printf("请输入十个数值:\n"); 
