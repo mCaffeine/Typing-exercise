@@ -7,3 +7,4 @@ int main()
 {
 	int i=0;//计数 
 	int a[10];
+	int temp=0;
