@@ -11,3 +11,4 @@ int main()
 	printf("请输入十个数值:\n"); 
 	for(i=0;i<10;i++)
 	{
+		scanf("%d",&a[i]);
