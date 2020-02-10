@@ -12,3 +12,6 @@ int main()
 	for(i=0;i<10;i++)
 	{
 		scanf("%d",&a[i]);
+	}
+	temp=MAX(a);
+	printf("Max value is %d\n",temp);
