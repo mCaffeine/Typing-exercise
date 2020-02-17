@@ -16,3 +16,5 @@ int main()
 	temp=MAX(a);
 	printf("Max value is %d\n",temp);
  } 
+ 
+ int MAX(int a[10])
