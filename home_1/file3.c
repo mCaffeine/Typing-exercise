@@ -18,3 +18,5 @@ int main()
  } 
  
  int MAX(int a[10])
+ {
+ 	int j=0;
