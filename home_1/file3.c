@@ -27,3 +27,4 @@ int main()
  		max=a[j];
 	 }
 	 return max;
+ }
