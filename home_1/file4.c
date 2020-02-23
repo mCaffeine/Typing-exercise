@@ -9,3 +9,5 @@ int main()
 	int j=0;
 	int temp;
 	printf("请分别输入十个数\n");
+	for(i=0;i<10;i++)
+	{
