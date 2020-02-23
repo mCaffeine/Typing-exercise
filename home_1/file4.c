@@ -18,3 +18,5 @@ int main()
 	 {
 	 	if(a[j]<a[i])
 	 	{
+	 		temp=a[i];
+	 		a[i]=a[j];
