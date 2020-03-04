@@ -4,3 +4,4 @@
 int main()
 {
 	int temp=0;
+	int i=0;
