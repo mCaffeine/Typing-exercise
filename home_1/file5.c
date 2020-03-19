@@ -8,3 +8,4 @@ int main()
 	int j=0;
 	int a[10];
 	int k=0; 
+	printf("请分别输入十个数字:\n");
