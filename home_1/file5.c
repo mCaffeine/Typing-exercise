@@ -11,3 +11,4 @@ int main()
 	printf("请分别输入十个数字:\n");
 	for(i<0;i<10;i++)
 	{
+		scanf("%d",&a[i]);
