@@ -10,3 +10,4 @@ int main()
 	int k=0; 
 	printf("请分别输入十个数字:\n");
 	for(i<0;i<10;i++)
+	{
