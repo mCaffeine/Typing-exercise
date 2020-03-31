@@ -16,3 +16,4 @@ int main()
 	for(i=0;i<9;i++)
 	{
 		
+	 for(k=i+1;k<10;k++)
