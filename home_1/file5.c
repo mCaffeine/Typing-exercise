@@ -17,3 +17,5 @@ int main()
 	{
 		
 	 for(k=i+1;k<10;k++)
+	 {
+	 	if(a[k]<a[i])
