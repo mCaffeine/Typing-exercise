@@ -24,3 +24,5 @@ int main()
 		if(k!=i)
 		{
 			temp=a[i];
+			a[i]=a[j];
+			a[j]=temp;
