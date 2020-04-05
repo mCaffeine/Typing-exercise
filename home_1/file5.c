@@ -23,3 +23,4 @@ int main()
 	 }
 		if(k!=i)
 		{
+			temp=a[i];
