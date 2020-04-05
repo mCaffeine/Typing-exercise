@@ -21,3 +21,5 @@ int main()
 	 	if(a[k]<a[i])
 	 	j=k;
 	 }
+		if(k!=i)
+		{
