@@ -13,3 +13,4 @@ int main()
 	{
 		scanf("%d",&a[i]);
 	}
+	for(i=0;i<9;i++)
