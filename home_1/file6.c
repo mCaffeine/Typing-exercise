@@ -22,3 +22,5 @@ int main()
 			a[j]=a[j+1];
 			a[j+1]=temp;
 		}
+	}
+	for(i=0;i<10;i++)
