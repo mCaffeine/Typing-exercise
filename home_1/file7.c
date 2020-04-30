@@ -9,3 +9,5 @@ int main(void)
     printf("输入你想打印的行数");
     scanf("%d",&n);
     for(i=0;i<n;i++)
+    {
+        a[i][0]=1;
