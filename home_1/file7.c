@@ -11,3 +11,4 @@ int main(void)
     for(i=0;i<n;i++)
     {
         a[i][0]=1;
+        a[i][i]=1;
