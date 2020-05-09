@@ -20,3 +20,5 @@ int main(void)
      }
      for(i=0;i<n;i++) 
      {
+          for(j=0;j<=i;j++)
+        	printf("%5d",a[i][j]);//打印完一整行后才能换行，若用"\n"会打印一个空一行 
