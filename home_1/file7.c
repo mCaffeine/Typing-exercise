@@ -15,3 +15,5 @@ int main(void)
      }
      for (i=2;i<n;i++)
      {
+           for (j=1;j<n-1;j++)
+                  a[i][j]=a[i-1][j-1]+a[i-1][j]; //从第三行起始的通项  
