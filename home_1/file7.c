@@ -24,3 +24,4 @@ int main(void)
         	printf("%5d",a[i][j]);//打印完一整行后才能换行，若用"\n"会打印一个空一行 
         printf("\n");
      }
+ }
