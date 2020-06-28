@@ -2,4 +2,4 @@
 
 #include <stdio.h>
 
-int main(vo
+int main(voi
