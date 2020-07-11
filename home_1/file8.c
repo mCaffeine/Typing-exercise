@@ -4,4 +4,4 @@
 
 int main(void)
 {
-	int
+	int 
