@@ -4,4 +4,4 @@
 
 int main(void)
 {
-	int *p=NUL
+	int *p=NULL
