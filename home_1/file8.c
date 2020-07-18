@@ -5,4 +5,4 @@
 int main(void)
 {
 	int *p=NULL;
-	i
+	int
