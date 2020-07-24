@@ -5,4 +5,4 @@
 int main(void)
 {
 	int *p=NULL;
-	int *q=
+	int *q=NU
