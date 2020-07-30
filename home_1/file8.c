@@ -6,3 +6,4 @@ int main(void)
 {
 	int *p=NULL;
 	int *q=NULL;
+	i
