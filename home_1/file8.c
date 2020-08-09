@@ -6,4 +6,4 @@ int main(void)
 {
 	int *p=NULL;
 	int *q=NULL;
-	int *
+	int *ta
