@@ -7,4 +7,4 @@ int main(void)
 	int *p=NULL;
 	int *q=NULL;
 	int *tab=NULL;
-	i
+	in
