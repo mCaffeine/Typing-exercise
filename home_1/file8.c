@@ -8,4 +8,4 @@ int main(void)
 	int *q=NULL;
 	int *tab=NULL;
 	int number1=0;
-	int nu
+	int num
