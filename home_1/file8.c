@@ -9,4 +9,4 @@ int main(void)
 	int *tab=NULL;
 	int number1=0;
 	int number2=0;
-	printf("Please enter two nu
+	printf("Please enter two num
