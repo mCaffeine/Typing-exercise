@@ -10,4 +10,4 @@ int main(void)
 	int number1=0;
 	int number2=0;
 	printf("Please enter two numbers");
-	s
+	sca
