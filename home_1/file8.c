@@ -11,4 +11,5 @@ int main(void)
 	int number2=0;
 	printf("Please enter two numbers");
 	scanf("%d %d",&number1,&number2);
-	p=&number
+	p=&number1;
+	q
