@@ -12,4 +12,4 @@ int main(void)
 	printf("Please enter two numbers");
 	scanf("%d %d",&number1,&number2);
 	p=&number1;
-	q=&number2
+	q=&number2;
