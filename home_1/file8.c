@@ -13,4 +13,4 @@ int main(void)
 	scanf("%d %d",&number1,&number2);
 	p=&number1;
 	q=&number2; 
-	if(numb
+	if(number
