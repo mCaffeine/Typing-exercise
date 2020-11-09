@@ -14,3 +14,4 @@ int main(void)
 	p=&number1;
 	q=&number2; 
 	if(number1<number2) //交换两数字指针地址
+	{
