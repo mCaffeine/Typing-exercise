@@ -15,4 +15,4 @@ int main(void)
 	q=&number2; 
 	if(number1<number2) //交换两数字指针地址
 	{
-		ta
+		tab=
