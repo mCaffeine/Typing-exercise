@@ -16,4 +16,4 @@ int main(void)
 	if(number1<number2) //交换两数字指针地址
 	{
 		tab=p;
-		p
+		p=
