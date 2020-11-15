@@ -17,4 +17,4 @@ int main(void)
 	{
 		tab=p;
 		p=q;
-		q=
+		q=t
