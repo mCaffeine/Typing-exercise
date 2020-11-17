@@ -19,3 +19,4 @@ int main(void)
 		p=q;
 		q=tab;
 	}
+	
