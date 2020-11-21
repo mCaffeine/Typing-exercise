@@ -19,4 +19,4 @@ int main(void)
 		p=q;
 		q=tab;
 	}
-	printf("Max=%d,Min=%d\n",*p,*
+	printf("Max=%d,Min=%d\n",*p,*q
