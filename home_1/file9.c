@@ -3,3 +3,5 @@
 #include <stdio.h>
 int main()
 {
+     int*p,i,j,tab,a[5];
+     p=a;
