@@ -5,3 +5,4 @@ int main()
 {
      int*p,i,j,tab,a[5];
      p=a;
+     printf("please input 5 numbers:\n");
