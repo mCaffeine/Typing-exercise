@@ -8,3 +8,5 @@ int main()
      printf("please input 5 numbers:\n");
      for (i=0;i<5;i++)
             scanf("%d",p++);
+     printf("the input array is:\n");
+     for(p=a,i=0;i<5;i++)
