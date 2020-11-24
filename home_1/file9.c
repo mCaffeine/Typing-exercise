@@ -7,3 +7,4 @@ int main()
      p=a;
      printf("please input 5 numbers:\n");
      for (i=0;i<5;i++)
+            scanf("%d",p++);
