@@ -12,3 +12,4 @@ int main()
      for(p=a,i=0;i<5;i++)
            printf("%2d",*p++);
      return 0;
+}
