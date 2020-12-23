@@ -2,4 +2,4 @@
 #include <stdio.h>
 int main(void){
     int *num = NULL;
-    int *x, y[] = 
+    int *x, y[] = {
