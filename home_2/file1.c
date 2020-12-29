@@ -3,4 +3,4 @@
 int main(void){
     int *num = NULL;
     int *x, y[] = {12, 22,32}, z = 100;
-    //下面
+    //下面演示
