@@ -7,4 +7,4 @@ int main(void){
     x=&z;      //整型变量的地址赋给x
     printf("*x=%d, x[0]=%d\n", *x, x[0]);
     x = y;     //数组的地址赋给x
-    printf("*x=%d, x[ 0]=%d, x[ 1]=%d, x[2]=%d\n", *x, x[0], x[1], x[2])
+    printf("*x=%d, x[ 0]=%d, x[ 1]=%d, x[2]=%d\n", *x, x[0], x[1], x[2]);
