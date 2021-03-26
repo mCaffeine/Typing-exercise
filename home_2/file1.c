@@ -9,4 +9,4 @@ int main(void){
     x = y;     //数组的地址赋给x
     printf("*x=%d, x[ 0]=%d, x[ 1]=%d, x[2]=%d\n", *x, x[0], x[1], x[2]);
     x = y + 1; //数组的第二位地址赋给x
-    printf("*x=%d, x[-1]=%d, x[ 0]=%d, x[1]=%d\n", *x, x[-1], x[0], 
+    printf("*x=%d, x[-1]=%d, x[ 0]=%d, x[1]=%d\n", *x, x[-1], x[0], x[
