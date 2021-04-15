@@ -11,4 +11,4 @@ int main(void){
     x = y + 1; //数组的第二位地址赋给x
     printf("*x=%d, x[-1]=%d, x[ 0]=%d, x[1]=%d\n", *x, x[-1], x[0], x[1]);
     x = y + 2; //数组的第三位地址赋给x
-    printf("*x=%d, x[-2]=%d, x
+    printf("*x=%d, x[-2]=%d, x[-
