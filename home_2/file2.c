@@ -11,3 +11,4 @@ int main(void)
 	{
 		printf("动态内存分配失败");
 		exit(1);
+	}
