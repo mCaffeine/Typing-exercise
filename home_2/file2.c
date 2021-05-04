@@ -6,3 +6,4 @@
 int main(void)
 {
 	char *p;
+	p=(char *)(malloc(60*sizeof(char)));//申请内存空间 
