@@ -13,3 +13,4 @@ int main(void)
 		exit(1);
 	}
 	strcpy(p,"https://github.com/yufanxin/\n"); //
+	printf("%s",p);
