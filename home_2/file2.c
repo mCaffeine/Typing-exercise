@@ -17,3 +17,4 @@ int main(void)
 	free(p);//释放内存 
 	p=NULL;//指针置空，防止野指针 
 	
+ } 
