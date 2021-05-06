@@ -11,3 +11,4 @@ int main(void)
 	printf("请输入数组长度");
 	scanf("%d",&n);
 	p=(int *)(malloc(n*sizeof(int)));
+	for(i=0;i<n;i++)
