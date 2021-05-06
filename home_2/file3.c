@@ -8,3 +8,4 @@ int main(void)
 	int i=0;
 	int *p=NULL;
 	int n=0;
+	printf("请输入数组长度");
