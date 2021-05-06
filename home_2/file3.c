@@ -9,3 +9,5 @@ int main(void)
 	int *p=NULL;
 	int n=0;
 	printf("请输入数组长度");
+	scanf("%d",&n);
+	p=(int *)(malloc(n*sizeof(int)));
