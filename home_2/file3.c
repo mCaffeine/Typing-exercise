@@ -15,3 +15,5 @@ int main(void)
 	{
 		p[i]=i+1;//p的值作为数组的地址
 		if((i+1)%10==0)
+		printf("\n");
+		printf("%5d",p[i]);
