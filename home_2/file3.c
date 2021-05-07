@@ -19,3 +19,4 @@ int main(void)
 		printf("%5d",p[i]);
 		
 	}
+	free(p);
