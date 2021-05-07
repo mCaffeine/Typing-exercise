@@ -14,3 +14,4 @@ int main(void)
 	for(i=0;i<n;i++)
 	{
 		p[i]=i+1;//p的值作为数组的地址
+		if((i+1)%10==0)
