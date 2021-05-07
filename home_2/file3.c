@@ -17,3 +17,5 @@ int main(void)
 		if((i+1)%10==0)
 		printf("\n");
 		printf("%5d",p[i]);
+		
+	}
