@@ -12,3 +12,4 @@ int main(void)
 	scanf("%d",&n);
 	p=(int *)(malloc(n*sizeof(int)));
 	for(i=0;i<n;i++)
+	{
