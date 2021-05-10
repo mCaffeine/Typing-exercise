@@ -5,3 +5,4 @@ int main()
 {
 	int i=0;
 	int *p=NULL;
+	int a[8]={12,2,13,24,1,24,3,23};
