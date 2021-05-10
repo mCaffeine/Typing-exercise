@@ -22,3 +22,4 @@ int main(void)
 	free(p);
 	p=NULL;
 	printf("\n");
+}
