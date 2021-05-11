@@ -11,3 +11,4 @@ int main()
 	{
 		printf("a[i]=%d\n",p[i]);
 	}
+	printf("\n");
