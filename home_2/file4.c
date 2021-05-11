@@ -10,3 +10,4 @@ int main()
 	for(i=0;i<8;i++)
 	{
 		printf("a[i]=%d\n",p[i]);
+	}
