@@ -16,3 +16,4 @@ int main()
 	{
 		printf("*(p+%d):%d\n",i,*(p+i));
 	}
+}
