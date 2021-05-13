@@ -5,3 +5,4 @@ void sort(int * anotherp,int number); //排序函数
 int main(void)
 {
 	int i=0;
+	int *p=NULL;
