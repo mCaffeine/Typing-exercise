@@ -7,3 +7,4 @@ int main(void)
 	int i=0;
 	int *p=NULL;
 	int a[10]={12,134,21,245,12,3,4,2,31,87};
+	p=a;
