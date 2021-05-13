@@ -9,3 +9,6 @@ int main(void)
 	int a[10]={12,134,21,245,12,3,4,2,31,87};
 	p=a;
 	printf("original array:\n ");
+	for(i=0;i<10;i++)
+	{
+		printf("a[%d]=:%d\n",i,*(p+i));
