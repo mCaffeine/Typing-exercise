@@ -14,3 +14,5 @@ int main(void)
 		printf("a[%d]=:%d\n",i,*(p+i));
 	}
 	sort(p,10);//调用 
+	printf("inverted array:\n");
+	for(i=0;i<10;i++)
