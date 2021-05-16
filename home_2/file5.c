@@ -13,3 +13,4 @@ int main(void)
 	{
 		printf("a[%d]=:%d\n",i,*(p+i));
 	}
+	sort(p,10);//调用 
