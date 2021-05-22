@@ -20,3 +20,5 @@ int main(void)
 		printf("a[%d]=:%d\n",i,*(p+i));
 	}
  } 
+void sort(int * anotherp,int number)
+ {
