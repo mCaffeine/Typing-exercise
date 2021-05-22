@@ -19,3 +19,4 @@ int main(void)
 	{
 		printf("a[%d]=:%d\n",i,*(p+i));
 	}
+ } 
