@@ -22,3 +22,4 @@ int main(void)
  } 
 void sort(int * anotherp,int number)
  {
+ 	int i=0; 
