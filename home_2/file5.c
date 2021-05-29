@@ -26,3 +26,4 @@ void sort(int * anotherp,int number)
  	int j=0;
  	int tap;
  	for(i=0,j=number-1;i<j;i++,j--) //i<j:一半就可以完成交换，若改为i<number,会还原到起始状态 
+ 	{
