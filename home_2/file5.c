@@ -29,3 +29,4 @@ void sort(int * anotherp,int number)
  	{
  		tap=anotherp[i];
  		anotherp[i]=anotherp[j];
+ 		anotherp[j]=tap;
