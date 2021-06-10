@@ -4,3 +4,4 @@
 int main()
 {
 	int *a,*b,*p,m,n;
+	printf("please enter two numebers:\n");
