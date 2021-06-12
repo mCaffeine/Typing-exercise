@@ -6,3 +6,4 @@ int main()
 	int *a,*b,*p,m,n;
 	printf("please enter two numebers:\n");
 	scanf("%d %d",&m,&n);
+	a=&m;
