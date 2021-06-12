@@ -7,3 +7,5 @@ int main()
 	printf("please enter two numebers:\n");
 	scanf("%d %d",&m,&n);
 	a=&m;
+	b=&n;
+	if(m<n)
