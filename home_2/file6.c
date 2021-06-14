@@ -10,3 +10,4 @@ int main()
 	b=&n;
 	if(m<n)
 	{
+		p=a;
