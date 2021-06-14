@@ -11,3 +11,5 @@ int main()
 	if(m<n)
 	{
 		p=a;
+		a=b;
+		b=p;
