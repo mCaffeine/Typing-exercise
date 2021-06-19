@@ -16,3 +16,4 @@ int main()
 	}
 	printf("a=%d,b=%d\n",m,n);
 	printf("Max=%d,Min=%d\n",*a,*b);
+	return 0;
