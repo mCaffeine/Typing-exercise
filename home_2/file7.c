@@ -3,4 +3,4 @@
   
 /*int main(void)  
 {  
-    char *pa
+    char *parr
