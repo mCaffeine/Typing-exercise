@@ -3,4 +3,4 @@
   
 /*int main(void)  
 {  
-    char *parray = 
+    char *parray = "h
