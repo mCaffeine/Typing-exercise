@@ -3,4 +3,4 @@
   
 /*int main(void)  
 {  
-    char *parray = "hello";  /
+    char *parray = "hello";  //把
