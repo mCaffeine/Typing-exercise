@@ -3,4 +3,4 @@
   
 /*int main(void)  
 {  
-    char *parray = "hello";  //把字符
+    char *parray = "hello";  //把字符串
