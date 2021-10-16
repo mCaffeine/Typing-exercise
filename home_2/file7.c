@@ -3,4 +3,4 @@
   
 /*int main(void)  
 {  
-    char *parray = "hello";  //把字符串常量赋给可以改变他的变量会
+    char *parray = "hello";  //把字符串常量赋给可以改变他的变量会发
