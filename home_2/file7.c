@@ -7,4 +7,4 @@
     *parray = 'a';  //不能改变常量，出错 
     printf("parray = %s\n", parray);  
   
-    
+    re
