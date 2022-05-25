@@ -11,4 +11,4 @@
 }   */
 int main(void)
 {
-	cha
+	char
