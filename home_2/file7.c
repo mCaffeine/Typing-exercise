@@ -11,4 +11,4 @@
 }   */
 int main(void)
 {
-	char cons
+	char const
