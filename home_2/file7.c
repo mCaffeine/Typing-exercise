@@ -11,4 +11,4 @@
 }   */
 int main(void)
 {
-	char const *p
+	char const *pa
