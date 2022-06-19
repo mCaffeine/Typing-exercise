@@ -11,4 +11,4 @@
 }   */
 int main(void)
 {
-	char const *par
+	char const *parr
