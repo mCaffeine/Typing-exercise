@@ -11,4 +11,4 @@
 }   */
 int main(void)
 {
-	char const *parray="hell
+	char const *parray="hello
