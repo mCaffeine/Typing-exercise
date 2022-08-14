@@ -12,4 +12,4 @@
 int main(void)
 {
 	char const *parray="hello";
-	*parray='a';
+	*parray='a'; 
