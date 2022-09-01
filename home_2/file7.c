@@ -12,4 +12,4 @@
 int main(void)
 {
 	char const *parray="hello";
-	*parray='a'; //const无法
+	*parray='a'; //const无法通过编
