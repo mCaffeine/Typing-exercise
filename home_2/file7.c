@@ -12,4 +12,4 @@
 int main(void)
 {
 	char const *parray="hello";
-	*parray='a'; //const无法通过编译，可以节省调试时
+	*parray='a'; //const无法通过编译，可以节省调试时间
