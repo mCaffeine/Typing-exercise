@@ -58,3 +58,4 @@ int main(void)
     printf("2433=%x\n", char_value[2][4][3][3]);  
     printf("2534=%x\n", char_value[2][5][3][4]);  
     printf("1234=%x\n", char_value[1][2][3][4]);  
+    printf("2112=%x\n", char_value[2][1][1][2]);  
