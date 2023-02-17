@@ -50,3 +50,4 @@ int main(void)
                             };  
   
     printf("1223=%x\n", char_value[1][2][2][3]);  
+    printf("1111=%x\n", char_value[1][1][1][1]);  
