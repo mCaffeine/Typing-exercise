@@ -60,3 +60,4 @@ int main(void)
     printf("1234=%x\n", char_value[1][2][3][4]);  
     printf("2112=%x\n", char_value[2][1][1][2]);  
     printf("2222=%x\n", char_value[2][2][2][2]);  
+    printf("2211=%x\n", char_value[2][2][1][1]);  
