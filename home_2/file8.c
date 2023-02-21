@@ -62,3 +62,5 @@ int main(void)
     printf("2222=%x\n", char_value[2][2][2][2]);  
     printf("2211=%x\n", char_value[2][2][1][1]);  
   
+    return 0;  
+}  
